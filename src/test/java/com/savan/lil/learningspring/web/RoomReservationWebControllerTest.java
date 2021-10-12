@@ -40,8 +40,8 @@ public class RoomReservationWebControllerTest {
         List<RoomReservation> roomReservations = new ArrayList<>();
         RoomReservation roomReservation = new RoomReservation();
 
-        roomReservation.setLastName("kakadiya");
-        roomReservation.setFirstName("savan");
+        roomReservation.setLastName("JUnit");
+        roomReservation.setFirstName("TEST");
         roomReservation.setDate(date);
         roomReservation.setGuestId(1);
         roomReservation.setRoomId(100);
